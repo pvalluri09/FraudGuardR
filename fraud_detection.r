@@ -7,7 +7,7 @@ library(lattice)     #for additional plotting functions
 library(caret)       #for machine learning model evaluation
 
 #Read the credit card dataset from a CSV file
-data<-read.csv("C:\\Users\\Vaishu\\Documents\\delete\\creditcard.csv")
+data<-read.csv("C:\\Users\\Pravalika\\Documents\\creditcard.csv")
 
 #explore the dataset
 data.table(data)
